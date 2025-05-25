@@ -3,6 +3,15 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+Writing this makes me feel like this is so much better than talking to an LLM. I get to think, plan, introspect etc.
+I dont have to read long responses with "balanced" explanations. An LLM reading this can be helpful. If I mention things
+I need to do, adding them to my task backlog would be nice. Any unanswered questions can go to the "exploration" section 
+for me to think about it more. Any long term goals or near future plans can be organzied accordingly. This is much useful
+to me than the "thinking w/ me" or "answering or leading my thoughts" mode. Do the manual for me. I dont want to end up in
+LLM knowledge silo.
+
+---
+
 All my "product" ideas are things that would solve my problems. Here product equals things I should build. 
 Are these "good" product ideas? Idk. They might be a good solution to **my** problem. But will they be 
 something that people will pay for and use regualarly? Idk. Should I build things that are "good" products or
