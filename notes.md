@@ -1,6 +1,14 @@
 # My Notes
 _A place for my raw, authentic, and poorly written thoughts and ideas. The content is in order of recent to oldest._
 
+
+---
+
+Not a fan of the marketing, investor buzz lingo in AI. What is an agent? Tim Berners Lee mentioned "software agents" in 2001. 
+Did we make "agentic" software then? Was it the year of agents in 2002? The investor, business, marketing game is not great.
+There is a lot of not value creating thing you can do that are considered "good". B2B space is not really efficient in this way. 
+It's kinda like informal loose collusion. 
+
 ---
 
 Writing this makes me feel like this is so much better than talking to an LLM. I get to think, plan, introspect etc.
