@@ -1,6 +1,25 @@
 # My Notes
 _A place for my raw, authentic, and poorly written thoughts and ideas. The content is in order of recent to oldest._
 
+---
+
+Sharing revenue instead of "stocks". I am not a fan of the raise money from investors game. I propose a new investment+employment model.
+Employees and investors of the organization share its revenue. The revenue is in proportion to the amount of money and value 
+invested by the employee and investor. The revenue gets divided into percentages. Some of it can go back into the organization
+for reinvestment. Some of it would be spent on costs of production (in hindsight this makes it profit sharing). When you are 
+hiring a new employee everyone's percentage decreases since the new person would have to be paid in some percentage of the revenue. 
+This way the org would be incentivized to hire people they think will grow the revenue in the future. 
+This also makes the flow of value very direct (if one measures it in revenue). You would want the org to try to increase revenue 
+rather than shareholder value. This sort of model may not be the best for large long term projects.
+
+---
+
+Why does sadapay and the e-wallets exist? Wouldn't all the founders get told "what happens when the banks make an app of their own?".
+Banks have made apps of their own. Every bank has one. I still prefer sadapay over my banking app. My hypothesis is that banks
+don't really know how to create a good application with a good user experience, they also probably don't care. Maybe an indication
+that one should pursue startups that may seem like fragile because a big player could do it. If the big players don't care enough, 
+it doesn't matter. Also if a big player hasn't already done it they probably don't care enough, otherwise they probably had the brains
+and bread to do it (not sure if this holds true always).
 
 ---
 
