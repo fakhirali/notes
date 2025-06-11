@@ -1,6 +1,17 @@
 # My Notes
 _A place for my raw, authentic, and poorly written thoughts and ideas. The content is in order of recent to oldest._
 
+
+---
+
+Reaserching and understanding things should be very accessible today. Swifting through the internet and finding relevant information.
+As part of work, I've been doing feasability and technical implementation research (Figuring out if a thing can be done, if so, how.) 
+and it's been very rewarding. It took me back to the school days where I would write reports on things citing all the sources and
+giving a nice breakdown. At the time I felt I was actively adding to the knowledge base of people and myself. These weren't opinion 
+pieces like the ones I write in my [blog](https://www.fakhirali.pk/myblog/), there are more a compiled set of facts to serve a purpose.
+This kind of "writing" is something I maybe best suited for, idk. I feel, there is a real gain in knowledge and understanding this way.
+Maybe I start a technical blog as well. A like [this](https://colah.github.io/) guy's work. 
+
 ---
 
 We need to get real money back. Fake fiat money means it can be manipulated easily. I don't know
@@ -33,7 +44,7 @@ and bread to do it (not sure if this holds true always).
 
 Not a fan of the marketing, investor buzz lingo in AI. What is an agent? Tim Berners Lee mentioned "software agents" in 2001. 
 Did we make "agentic" software then? Was it the year of agents in 2002? The investor, business, marketing game is not great.
-There is a lot of not value creating thing you can do that are considered "good". B2B space is not really efficient in this way. 
+There is a lot of not value creating things you can do that are considered "good". B2B space is not really efficient in this way. 
 It's kinda like informal loose collusion. 
 
 ---
