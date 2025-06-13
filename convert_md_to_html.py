@@ -29,6 +29,8 @@ def md_to_html(md_file_path, html_file_path):
     <title>My Notes</title>
     <style>
         body {{
+            background-color: #121212;
+            color: #e0e0e0;
             font-family: Arial, sans-serif;
             line-height: 1.6;
             max-width: 800px;
@@ -36,13 +38,21 @@ def md_to_html(md_file_path, html_file_path):
             padding: 20px;
         }}
         pre {{
-            background-color: #f4f4f4;
+            background-color: #1e1e1e;
+            color: #e0e0e0;
             padding: 10px;
             border-radius: 5px;
             overflow-x: auto;
         }}
         code {{
+            color: #e0e0e0;
             font-family: monospace;
+        }}
+        a {{
+            color: #bb86fc; /* Light purple for visibility on dark bg */
+        }}
+        a:hover {{
+            text-decoration: underline;
         }}
     </style>
 </head>
