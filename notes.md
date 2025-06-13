@@ -4,12 +4,12 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
-Reaserching and understanding things should be very accessible today. Swifting through the internet and finding relevant information.
-As part of work, I've been doing feasability and technical implementation research (Figuring out if a thing can be done, if so, how.) 
+Reaserching and understanding things should be very accessible today, sifting through the internet and finding relevant information.
+As part of work, I've been doing feasability and technical implementation research (figuring out if a thing can be done, if so, how) 
 and it's been very rewarding. It took me back to the school days where I would write reports on things citing all the sources and
 giving a nice breakdown. At the time I felt I was actively adding to the knowledge base of people and myself. These weren't opinion 
-pieces like the ones I write in my [blog](https://www.fakhirali.pk/myblog/), there are more a compiled set of facts to serve a purpose.
-This kind of "writing" is something I maybe best suited for, idk. I feel, there is a real gain in knowledge and understanding this way.
+pieces like the ones I write in my [blog](https://www.fakhirali.pk/myblog/), these are more like a compiled set of facts to serve a purpose.
+This kind of writing is something I may be best suited for, idk. I feel, there is a real gain in knowledge and understanding this way.
 Maybe I start a technical blog as well. A like [this](https://colah.github.io/) guy's work. 
 
 ---
@@ -22,7 +22,7 @@ work? Doesn't seem like it.
 
 ---
 
-Sharing revenue instead of "stocks". I am not a fan of the raise money from investors game. I propose a new investment+employment model.
+Sharing revenue instead of "stocks". I am not a fan of the "raise money from investors" game. I propose a new investment+employment model.
 Employees and investors of the organization share its revenue. The revenue is in proportion to the amount of money and value 
 invested by the employee and investor. The revenue gets divided into percentages. Some of it can go back into the organization
 for reinvestment. Some of it would be spent on costs of production (in hindsight this makes it profit sharing). When you are 
