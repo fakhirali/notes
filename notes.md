@@ -25,7 +25,7 @@ and it's been very rewarding. It took me back to the school days where I would w
 giving a nice breakdown. At the time I felt I was actively adding to the knowledge base of people and myself. These weren't opinion 
 pieces like the ones I write in my [blog](https://www.fakhirali.pk/myblog/), these are more like a compiled set of facts to serve a purpose.
 This kind of writing is something I may be best suited for, idk. I feel, there is a real gain in knowledge and understanding this way.
-Maybe I start a technical blog as well. A like [this](https://colah.github.io/) guy's work. 
+Maybe I start a technical blog as well.I like [this](https://colah.github.io/) guy's work. 
 
 ---
 
