@@ -3,6 +3,17 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+A couple of projects I want to do. One is to improve economic understanding. I want for myself and other people
+to be able to understand economic changes in the world. These could be through government policies, technological changes,
+natural events, etc. I don't know how to achieve this, but I was thinking of a public economic simulator/model. Reading the MoM of
+the state bank's meetings, I can tell they have a model using which they forecast things. The other one is to make it easier 
+for people to consume news. This includes avoiding bias, avoiding slop, avoiding overload of info, etc. I don't know, it's actually super
+hard to consume news properly. I don't know what/who to believe, and I sure as hell can't investigate myself. 
+I am not well versed on the sources such that I can identify their unique biases. What would a solution for this look like? 
+An AI news aggregator, deep research-like tools applied to news sources, augmenting news with social media stuff, etc.
+
+---
+
 There are a couple things that I know/have done which would be useful for young 
 computer scientists or engineers (I think). What is the best way to do this? 
 The goal here is not to teach something new, but to bring stuff into the awareness 
