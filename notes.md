@@ -4,10 +4,27 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+A kid comes up to me and says "if I start to seriously learn programming now, I will still 
+always be behind you". I also hear things like, "you can do it because you're exceptional, not 
+everyone is like you". 
+
+It's heartbreaking to see this mindset. I've been programming for 10 years, and because I'm 
+decent at it, people assume they shouldn't even try since they'll always be "behind" me. 
+
+But imagine me thinking I'll always be behind geohot or karpathy or sutton or carmack. 
+That would be equally absurd. These things aren't on a straight line as your school has you 
+believing. There's no consistent comparison or competition going on. 
+
+The scope of knowledge and skills is vast, there's ample space for you to carve out your own 
+path. Do what you like to do, try to help out where you can, take your time. You'll be 
+"exceptional" after 10 years too, just in your own way. 
+
+---
+
 This is perhaps a followup to the previous note. To achieve more things, I feel I now need leverage. 
 Leverage is an important concept. Leverage (to me) means being able to do more with less effort 
 (resources). For example, hiring someone to do something gives me leverage. I follow Naval Ravikant's 
-ideas on this. There are 4 types of leverage: labour, capital, and code. Labour and capital are the traditional
+ideas on this. There are 3 types of leverage: labour, capital, and code. Labour and capital are the traditional
 forms of leverage—hiring people and funding projects. Code is a new form of leverage thanks to
 the internet. Code means that machines can do things for you. It's highly scalable, permissionless, and 
 reproducible. (There is also content he mentions.) To accomplish all the things I want to do, I have to acquire
