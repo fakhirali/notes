@@ -1,6 +1,15 @@
 # My Notes
 _A place for my raw, authentic, and poorly written thoughts and ideas. The content is in order of recent to oldest._
 
+---
+
+Started working on OpenVoiceChat again. What if OVC was as good or better than the commercial infra providers?
+What would happen? I imagine commoditization of the infra providers. There would be more infra providers and
+they would all have very low cost, they would try their best to differentiate themselves from each other on the
+basis of niche and business but not technology. Would I make any money? I would imagine myself making some money. 
+I would imagine the money being substantial. I would understand that there would still be money left on the table 
+if I was rent seeking, but that's not what I'm doing. I'll make more money from the next project and then the next. 
+It's about moving things forward and not about squeezing each little penny off of whatever I build.
 
 ---
 
