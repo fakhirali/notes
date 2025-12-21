@@ -3,6 +3,14 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+Made ClosedVoiceChat and it is as good as the commercial players. What now? 
+What if I had opensourced it? I took a couple weeks and some focus to get it to that level. 
+There is definately more improvements to be made. But I made something that matches the quality
+of Silicon Valley, YC and VC backed, Stanford graduated startups with lots of money in the bank. 
+You can too. 
+
+---
+
 Started working on OpenVoiceChat again. What if OVC was as good or better than the commercial infra providers?
 What would happen? I imagine commoditization of the infra providers. There would be more infra providers and
 they would all have very low cost, they would try their best to differentiate themselves from each other on the
