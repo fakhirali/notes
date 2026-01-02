@@ -13,7 +13,8 @@ everything else. The candidate also sends an email where he describes
 why the role is for him. The candidate shares work that he had done in the past 
 that closely aligns with the role. The candidate also shares work that he/she did specifically
 for this application that very closely aligns with the role (demo code, an article or blog, a video, a graphic 
-etc). Also the candidate has done good work and written/talked about it. 
+etc). Also the candidate has done good work and written/talked about it.
+
 ---
 
 There are two types of programming. One where you are "developing" software. This includes 
