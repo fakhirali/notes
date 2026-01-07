@@ -3,6 +3,18 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+Someone or something else might be the problem, but what can you do?
+The government might be the problem, but what can you do? 
+The system is wrong, but what can you do?
+The society is wrong, but what can you do? 
+
+Everyone and everything is wrong, that's true.
+But are you going to blame and complain or are you going to do something about it? 
+You're an agent in an enviornment, the enviornment's state is give. An agent's opinion
+of the enviornment's state is useless unless the agent does something about it. 
+
+---
+
 So you don't have a job yet? Why? Is the job market bad or are you not good enough? 
 How many places have you applied? What's your way of applying for jobs? What 
 sets you apart from the others? What makes you you and not someone else?
