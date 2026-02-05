@@ -10,7 +10,7 @@ The society is wrong, but what can you do?
 
 Everyone and everything is wrong, that's true.
 But are you going to blame and complain or are you going to do something about it? 
-You're an agent in an enviornment, the enviornment's state is give. An agent's opinion
+You're an agent in an enviornment, the enviornment's state is given. An agent's opinion
 of the enviornment's state is useless unless the agent does something about it. 
 
 ---
