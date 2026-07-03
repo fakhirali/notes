@@ -3,6 +3,30 @@ _A place for my raw, authentic, and poorly written thoughts and ideas. The conte
 
 ---
 
+Went through all of bret victor's work. Inventing on Principle, Seeing spaces, Dynamicland etc.
+Super inspiring. Inventing on Principle makes me reflect so much on my values and plans. 
+Built spatial computing mini demo [prototype](https://github.com/fakhirali/SpatialComputing). 
+What would my pricinple be? I think computing should really be used to commoditize knowledge and
+understanding. There shouldn't be major asymmetry in knowledge in people. Everyone should know how the 
+economy works and when it's working and when it's not and what to do to improve it and how that process
+happens. Is this like education? We've not used computing well enough to build a better education system. 
+Making things public and participatory is good. We give everyone the same economic tools and simulators that
+the state bank or the ministry has. The stuff is accessable to everyone and easily comprehensible. 
+I really want to build systems that do this. Bret Victor's work is such a leap in shifting the focus from
+computing to make computers do things to computing to help humans understand and improve, and hence allow
+humans to make computers do things. Another person who I really look up to is Jeremy Howard. His work 
+also revolves around this. His courses and lectures are wonderfully crafted. His work is essentially
+empowering new programmers to do things. His fastai lib allows anyone to do ML/DL, he build fasthtml which
+then allowed anyone to build web applications, solveit is such a human approach to AI. While building 
+the mini demo I was vibe coding on opencode and I realized I really want to use solveit. I want to 
+develop live in a jupyter notebook. I want to understand how the calibration works and how the 
+projection works and when something goes wrong what could it mean. 
+
+My next project might be to build a tiny opensource version of solveit for me to develop stuff on. 
+
+
+---
+
 Someone or something else might be the problem, but what can you do?
 The government might be the problem, but what can you do? 
 The system is wrong, but what can you do?
