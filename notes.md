@@ -24,7 +24,6 @@ projection works and when something goes wrong what could it mean.
 
 My next project might be to build a tiny opensource version of solveit for me to develop stuff on. 
 
-
 ---
 
 Someone or something else might be the problem, but what can you do?
